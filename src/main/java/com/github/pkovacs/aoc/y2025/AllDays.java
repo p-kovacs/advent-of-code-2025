@@ -12,7 +12,7 @@ import java.util.function.Consumer;
 public class AllDays {
 
     private static final List<Day> DAYS = List.of(
-            new Day("Day 01", Day01::main, "0", "0"),
+            new Day("Day 01", Day01::main, "1029", "5892"),
 //            new Day("Day 02", Day02::main, "", ""),
 //            new Day("Day 03", Day03::main, "", ""),
 //            new Day("Day 04", Day04::main, "", ""),

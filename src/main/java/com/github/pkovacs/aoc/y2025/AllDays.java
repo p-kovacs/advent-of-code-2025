@@ -15,7 +15,7 @@ public class AllDays {
             new Day("Day 01", Day01::main, "1029", "5892"),
             new Day("Day 02", Day02::main, "22062284697", "46666175279"),
             new Day("Day 03", Day03::main, "17321", "171989894144198"),
-//            new Day("Day 04", Day04::main, "", ""),
+            new Day("Day 04", Day04::main, "1367", "9144"),
 //            new Day("Day 05", Day05::main, "", ""),
 //            new Day("Day 06", Day06::main, "", ""),
 //            new Day("Day 07", Day07::main, "", ""),

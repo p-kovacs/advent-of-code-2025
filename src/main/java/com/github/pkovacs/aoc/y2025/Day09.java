@@ -25,7 +25,7 @@ public class Day09 extends AbstractDay {
         for (int i = 0; i < tiles.size(); i++) {
             for (int j = i + 1; j < tiles.size(); j++) {
                 var box = Box.bound(List.of(tiles.get(i), tiles.get(j)));
-                max = Math.max(box.size(), max);
+                max = max(box.size(), max);
             }
         }
         return max;

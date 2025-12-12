@@ -23,8 +23,7 @@ public class AllDays {
             new Day("Day 09", Day09::main, "4781377701", "1470616992"),
 //            new Day("Day 10", Day10::main, "", ""),
             new Day("Day 11", Day11::main, "782", "401398751986160"),
-//            new Day("Day 12", Day12::main, "", ""),
-            new Day("The End", null, null, null)
+            new Day("Day 12", Day12::main, "575", "0")
     );
 
     public static void main(String[] args) {

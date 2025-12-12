@@ -7,11 +7,3 @@ java {
         languageVersion = JavaLanguageVersion.of(21)
     }
 }
-
-repositories {
-    mavenCentral()
-}
-
-dependencies {
-    implementation 'com.google.guava:guava:33.5.0-jre'
-}
